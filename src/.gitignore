@@ -1,0 +1,6 @@
+hl
+*.log
+out.txt
+construction.txt
+scale/*/query_time/
+scale/*/scale.txt
